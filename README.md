@@ -1,2 +1,2 @@
 # MultiRecyclerView
-Just an example of "MultiRecyclerView".
+Simple example of "MultiRecyclerView".
